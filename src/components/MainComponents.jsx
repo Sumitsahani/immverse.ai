@@ -118,7 +118,7 @@ const MainComponents = () => {
                     <h5>Alexander Grambhell</h5>
                   </div>
                   <div className="right-bootom-card">
-                    <img src="https://drive.google.com/file/d/14umI5smmE7AxlVUCsUE65YuGDNwZPT29/view?usp=drive_link" alt="Alexander Grambhell" />
+                    <img src="src/img/learn.webp" alt="Alexander Grambhell" />
                     <h5>Alexander Grambhell</h5>
                   </div>
                 </div>

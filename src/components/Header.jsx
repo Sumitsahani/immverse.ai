@@ -9,7 +9,7 @@ import { IoIosArrowDown } from "react-icons/io";
 const Header = () => {
   return (
     <header className="header">
-      <div className="logo"><img src="src/img/immvesre_logo.svg" alt="Logo" /></div>
+      <div className="logo"><img src="projects-preps\task\public\immvesre_logo.svg" alt="Logo" /></div>
       <nav>
         <ul className="nav-links">
           <li>Home</li>
