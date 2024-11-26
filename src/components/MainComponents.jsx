@@ -8,7 +8,7 @@ const MainComponents = () => {
     <>
       <div className="rectangale-main-top">
         <h3>My Journey</h3>
-        <img src="src/img/img1.png" alt="Journey" />
+        <img src="/img/img1.png" alt="Journey" />
       </div>
       <div className="card-container">
         <div className="card">
@@ -51,7 +51,7 @@ const MainComponents = () => {
       </div>
       <div className="rectangale-main-top">
         <h3>My Journey</h3>
-        <img src="src/img/img3.png" alt="Journey" />
+        <img src="/img/img3.png" alt="Journey" />
       </div>
       <div className="top-main-bootom">
         <h3>My Learning Path</h3>
@@ -62,7 +62,7 @@ const MainComponents = () => {
 
               <div className="AI">
                 <div>
-                  <img src="src/img/hirec.jpg" alt="Journey" />
+                  <img src="/img/hirec.jpg" alt="Journey" />
                   <div className="text">
                     <p>AI course 1</p>
                   </div>
@@ -71,7 +71,7 @@ const MainComponents = () => {
               </div>
               <div className="AI">
                 <div>
-                  <img src="src/img/hirec.jpg" alt="Journey" />
+                  <img src="/img/hirec.jpg" alt="Journey" />
                   <div className="text">
                     <p>AI course 1</p>
                   </div>
@@ -80,7 +80,7 @@ const MainComponents = () => {
               </div>
               <div className="AI">
                 <div>
-                  <img src="src/img/hirec.jpg" alt="Journey" />
+                  <img src="/img/hirec.jpg" alt="Journey" />
                   <div className="text">
                     <p>AI course 1</p>
                   </div>
@@ -93,7 +93,7 @@ const MainComponents = () => {
             <div className="right-top">
               <h3>Last Quiz</h3>
               <div className="right-top-b">
-                <img src="src/img/passed.png" alt="Journey" />
+                <img src="/img/passed.png" alt="Journey" />
                 <div className="status">
                   <p>Correct Answer - 8</p>
                   <p>Incorrect Answer - 1</p>
@@ -106,19 +106,19 @@ const MainComponents = () => {
                 <h3>Area's Improvement</h3>
                 <div className="right-top-bootom">
                   <div className="right-bootom-card">
-                    <img src="src/img/learn.webp" alt="Alexander Grambhell" />
+                    <img src="/img/learn.webp" alt="Alexander Grambhell" />
                     <h5>Alexander Grambhell</h5>
                   </div>
                   <div className="right-bootom-card">
-                    <img src="src/img/learn.webp" alt="Alexander Grambhell" />
+                    <img src="/img/learn.webp" alt="Alexander Grambhell" />
                     <h5>Alexander Grambhell</h5>
                   </div>
                   <div className="right-bootom-card">
-                    <img src="src/img/learn.webp" alt="Alexander Grambhell" />
+                    <img src="/img/learn.webp" alt="Alexander Grambhell" />
                     <h5>Alexander Grambhell</h5>
                   </div>
                   <div className="right-bootom-card">
-                    <img src="src/img/learn.webp" alt="Alexander Grambhell" />
+                    <img src="/img/learn.webp" alt="Alexander Grambhell" />
                     <h5>Alexander Grambhell</h5>
                   </div>
                 </div>
